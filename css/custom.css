@@ -1,0 +1,10 @@
+.bg-primary {
+    background-color: #002766 !important;
+}
+.my-auto h1, .my-auto span{
+    font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+.navbar-nav {
+    font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+}
