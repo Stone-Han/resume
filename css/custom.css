@@ -8,3 +8,7 @@
 .navbar-nav {
     font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
+
+.subheading {
+    margin-top: 20px;
+}
